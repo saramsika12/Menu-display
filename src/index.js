@@ -45,6 +45,13 @@ const pizzaData = [
     photoName: "pizzas/prosciutto.jpg",
     soldOut: false,
   },
+  {
+    name: "Pizza Hawain",
+    ingredients: "Tomato, mozarella, pineapple, bbq-chicken, and burrata cheese",
+    price: 18,
+    photoName: "pizzas/prosciutto.jpg",
+    soldOut: true,
+  },
 ];
 
 function App() {
